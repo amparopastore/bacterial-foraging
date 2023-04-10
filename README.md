@@ -1,4 +1,4 @@
-# bacterial Foraging
+# Bacterial Foraging
 
 Two-part project.
 
